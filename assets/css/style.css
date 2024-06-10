@@ -456,3 +456,9 @@ nav .logo a {
     border: none;
     box-shadow: none;
 }
+a.navbar-brand img {
+    max-width: 220px;
+}
+.logo_footer .logo a img {
+    width: 220px;
+}
