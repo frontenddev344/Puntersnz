@@ -262,11 +262,13 @@ img{
     background-color: #fff;
 }
 .accordion-button:not(.collapsed)::after {
-    background-image:url(../images/plus.png);
+    background-image:url(../images/minus.png);
+   
 
 }
 .accordion-button::after {
-    background-image:url(../images/minus.png);
+    background-image:url(../images/plus.png);
+
 }
 button.accordion-button {
     font-size: 20px;
@@ -466,4 +468,7 @@ a.navbar-brand img {
 .container-fluid {
     padding: 0 20px !important;
     max-width: 1920px!important;
+}
+.social_footer ul li:last-child a {
+    text-transform: lowercase;
 }
