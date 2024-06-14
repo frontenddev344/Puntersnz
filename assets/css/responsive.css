@@ -81,5 +81,9 @@
     height: 40px;
     font-size: 18px;
 }
+.common_btn_contact a {
+    width: 150px;
+    padding: 6px 6px;
+}
 }
 
