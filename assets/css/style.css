@@ -3,7 +3,7 @@ header {
     background: #ff8000;
     position: fixed;
     width: 100%;
-    z-index: 1;
+    z-index: 2;
 }
 body{
     font-family: "Roboto", sans-serif; 
@@ -68,7 +68,7 @@ li.nav-item {
     background-image: url(../images/contact_us.jpg)!important;
 }
 .faq_bg{
-    background-image: url(../images/hotel_bg.jpg)!important;
+    background-image: url(../images/young-businesswoman-reading-application-form\ \(1\).jpg)!important;
 }
 
 
