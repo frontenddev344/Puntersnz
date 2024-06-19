@@ -70,6 +70,12 @@ li.nav-item {
 .faq_bg{
     background-image: url(../images/young-businesswoman-reading-application-form\ \(1\).jpg)!important;
 }
+.privacy_banner{
+    background-image: url(../images/privacy-policy-bnr.jpg)!important;
+}
+.term_banner{
+    background-image: url(../images/terms-banner.jpg)!important;
+}
 
 
 .banner h1 {
