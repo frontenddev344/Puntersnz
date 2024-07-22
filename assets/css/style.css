@@ -1,10 +1,11 @@
 header {
     padding: 15px 0;
-    background: #ff8000;
+    background: unset;
     position: fixed;
     width: 100%;
     z-index: 2;
 }
+
 body{
     font-family: "Roboto", sans-serif; 
 }
@@ -477,4 +478,19 @@ a.navbar-brand img {
 }
 .social_footer ul li:last-child a {
     text-transform: lowercase;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    border-bottom: 1px solid #fff;
+}
+.for_index h1 {
+    background: unset;
+    padding: 0;
+}
+.home_wrapper {
+    background: #0000006b;
+    padding: 20px;
+    border-radius: 10px;
+}
+.home_wrapper h4{
+    color:white;
 }
